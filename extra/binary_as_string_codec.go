@@ -1,7 +1,7 @@
 package extra
 
 import (
-	"github.com/json-iterator/go"
+	jsoniter "github.com/Azaki-san/json-iterator"
 	"github.com/modern-go/reflect2"
 	"unicode/utf8"
 	"unsafe"
